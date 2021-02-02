@@ -1,4 +1,4 @@
-#Javascript Data Structures and Algorithms -- Sammie Bae
+Javascript Data Structures and Algorithms -- Sammie Bae
 
-##Exercises and Examples
+Exercises and Examples by Antonio Jimenez
 
